@@ -1,6 +1,6 @@
 package DeutscheBankAG;
 
-public class RverseEachWordOfStringStringBuilder {
+public class ReverseEachWordOfStringStringBuilder {
     public static void main(String[] args){
         String data = "Hello World";
         StringBuilder result = new StringBuilder();
